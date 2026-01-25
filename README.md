@@ -4,19 +4,13 @@ Daichi Sato – Engineer Portfolio
 📌 概要 / Overview
 このポートフォリオは、職業訓練校での課題をもとに作成したWebサイトです。現在就職活動用として使用しています。
 This portfolio was created based on a vocational training school assignment and is currently being used for job hunting purposes.
-🔗 デモサイト / Demo Site:
-https://yourusername.github.io/portfolio
-(リンクは公開後に更新してください / Please update the link after publishing)
 
 🎯 目的 / Purpose
-
 Webプログラミングスキルの習得と実践
 職務経歴・スキル・資格の視覚的な提示
 GitHubを活用したポートフォリオの公開
 
-
 🛠️ 使用技術 / Technologies
-
 HTML5 - セマンティックマークアップ
 CSS3 - レスポンシブデザイン、グラデーション、アニメーション
 JavaScript - スクロールアニメーション、DOM操作
@@ -71,65 +65,12 @@ css/style_portfolio.css - スタイル定義
 js/script.js - アニメーションとインタラクション
 
 ⚠️ 注意事項 / Disclaimer
-
 AI生成コードには誤りや脆弱性が含まれる可能性があります。
 AI-generated code may contain errors or security vulnerabilities.
 必ず人間によるレビューとテストを行ってください。
 Please ensure thorough human review and testing before use.
 本コードは参考目的であり、利用は自己責任でお願いします。
 This code is provided for reference purposes only; use at your own risk.
-
-
-🚀 セットアップ / Setup
-1. リポジトリのクローン / Clone the Repository
-bashgit clone https://github.com/yourusername/portfolio.git
-cd portfolio
-2. ローカルで表示 / View Locally
-ブラウザで index.html を開くか、ローカルサーバーを起動してください。
-Open index.html in your browser or start a local server:
-bash# Python 3の場合
-python -m http.server 8000
-
-# Node.jsの場合（http-serverをインストール済み）
-npx http-server
-ブラウザで http://localhost:8000 にアクセスしてください。
-3. GitHub Pagesで公開 / Publish with GitHub Pages
-
-GitHubリポジトリの Settings に移動
-Pages セクションを開く
-Source を main ブランチに設定
-Save をクリック
-数分後、公開URLが表示されます
-
-
-📝 カスタマイズ / Customization
-個人情報の変更
-index.html の以下の箇所を編集してください：
-html<!-- プロフィール情報 -->
-<div class="name">佐藤 大地</div>
-<div>📍 栃木県宇都宮市</div>
-<div>✉️ your-email@example.com</div>
-<div>📱 XXX-XXXX-XXXX</div>
-
-<!-- GitHubリンク（2箇所） -->
-<a href="https://github.com/yourusername" ...>
-スキルレベルの調整
-index.html のスキル項目で data-skill-level を変更：
-html<div class="skill-item" data-skill-level="3">
-  <span class="skill-name">・HTML5/CSS</span>
-  <span class="skill-stars"></span>
-</div>
-レベル： 1〜5（星の数に対応）
-色のカスタマイズ
-css/style_portfolio.css で以下の変数を変更：
-css/* メインカラー（紫系グラデーション） */
-background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-
-/* セクション番号の色 */
-background: #ff6b6b;
-
-/* 星の色 */
-color: #ffd700;
 
 📄 ライセンス / License
 このプロジェクトは MITライセンス に従います。
@@ -146,7 +87,6 @@ Email: your-email@example.com
 
 
 🙏 謝辞 / Acknowledgments
-
 Anthropic Claude Opus 4.5 - コード生成支援
 SHINBIデザインスクール - 学習環境の提供
 GitHub Pages - ホスティングサービス
