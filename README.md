@@ -4,6 +4,7 @@ Daichi Sato – Engineer Portfolio
 📌 概要 / Overview
 このポートフォリオは、職業訓練校での課題をもとに作成したWebサイトです。現在就職活動用として使用しています。
 This portfolio was created based on a vocational training school assignment and is currently being used for job hunting purposes.
+Site URL：https://shinbi-school.daa.jp/webpro/satou/self/
 
 🎯 目的 / Purpose
 Webプログラミングスキルの習得と実践
